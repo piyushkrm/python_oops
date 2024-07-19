@@ -1,6 +1,6 @@
 '''Write a class "calculator" capable of finding square, cube and square root of a number.'''
 
-class calculator() :
+class calculator :
 
     def __init__(self, number):
         self.number = number

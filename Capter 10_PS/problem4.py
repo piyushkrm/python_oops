@@ -1,7 +1,7 @@
 '''Add a static method in problem 2, to greet the user with hello.'''
 
 # Problem 2 is here
-class calculator() :
+class calculator :
 
 
     def __init__(self, number):

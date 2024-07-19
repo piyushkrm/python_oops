@@ -1,5 +1,5 @@
 '''Create a Class "Programmer" for storing information of few programmers working at Microsoft.'''
-class Programmer():
+class Programmer :
     company = "Microsoft"
     work_type = "Full time"
 
